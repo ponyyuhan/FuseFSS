@@ -66,7 +66,7 @@ python3 scripts/repro_eval_latest.py \
   --results-dir results/smoke
 ```
 
-## Reproduce Paper-Style Results
+## Results
 
 Use the reproduction script to run Sigma and FuseFSS on the same model matrix.
 The script records latency, communication, key generation time, key size, GPU
