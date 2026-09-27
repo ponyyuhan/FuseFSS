@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use FuseFSS, please cite the ICML 2026 paper below."
+type: software
+title: "FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing"
+authors:
+  - family-names: Ma
+    given-names: Yuhan
+  - family-names: Li
+    given-names: Yong
+  - family-names: Schmid
+    given-names: Stefan
+repository-code: "https://github.com/ponyyuhan/FuseFSS"
+url: "https://openreview.net/forum?id=WpUpj8DrVB"
+license: Apache-2.0
+preferred-citation:
+  type: conference-paper
+  title: "FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing"
+  authors:
+    - family-names: Ma
+      given-names: Yuhan
+    - family-names: Li
+      given-names: Yong
+    - family-names: Schmid
+      given-names: Stefan
+  collection-title: "Proceedings of the 43rd International Conference on Machine Learning"
+  year: 2026
+  url: "https://openreview.net/forum?id=WpUpj8DrVB"
