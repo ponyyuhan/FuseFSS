@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <b>ICML 2026</b> &nbsp; · &nbsp; C++17 / CUDA &nbsp; · &nbsp; <a href="LICENSE">Apache 2.0</a>
+  <a href="https://openreview.net/forum?id=WpUpj8DrVB"><img src="https://img.shields.io/badge/ICML-2026-176B65.png?style=flat-square" alt="ICML 2026"></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/C%2B%2B-17-345A78.png?style=flat-square" alt="C++17"></a>
+  <a href="docs/GETTING_STARTED.md#gpu-build"><img src="https://img.shields.io/badge/GPU-CUDA-345A78.png?style=flat-square" alt="GPU: CUDA"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-176B65.png?style=flat-square" alt="Apache License 2.0"></a>
 </p>
 
 <p align="center">
