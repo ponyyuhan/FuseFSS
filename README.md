@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://openreview.net/forum?id=WpUpj8DrVB"><img src="https://img.shields.io/badge/ICML-2026-176B65.png?style=flat-square" alt="ICML 2026"></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/C%2B%2B-17-345A78.png?style=flat-square" alt="C++17"></a>
-  <a href="docs/GETTING_STARTED.md#gpu-build"><img src="https://img.shields.io/badge/GPU-CUDA-345A78.png?style=flat-square" alt="GPU: CUDA"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-176B65.png?style=flat-square" alt="Apache License 2.0"></a>
+  <a href="https://openreview.net/forum?id=WpUpj8DrVB"><img src="docs/assets/badges/icml@4x.png" width="80" height="20" alt="ICML 2026"></a>
+  <a href="#quick-start"><img src="docs/assets/badges/cpp@4x.png" width="64" height="20" alt="C++17"></a>
+  <a href="docs/GETTING_STARTED.md#gpu-build"><img src="docs/assets/badges/cuda@4x.png" width="80" height="20" alt="GPU: CUDA"></a>
+  <a href="LICENSE"><img src="docs/assets/badges/license@4x.png" width="128" height="20" alt="Apache License 2.0"></a>
 </p>
 
 <p align="center">
